@@ -3,15 +3,15 @@
 
 ### styled-components 사용 
 
-##### $ npm install styled-components 
-##### $ npm start
+###### $ npm install styled-components 
+###### $ npm start
 
 ### themeprovider 테마 제공
 - (https://styled-components.com/docs/api#themeprovider)
-##### $ npm install polished
+###### $ npm install polished
 
 ### react-icons 사용
-##### $ npm install react-icons
+###### $ npm install react-icons
 
 ### components Selector
 
