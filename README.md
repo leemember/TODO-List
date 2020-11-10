@@ -18,7 +18,7 @@ $ npm install react-icons
 - https://styled-components.com/docs/advanced#referring-to-other-components
 
 
------------------디렉토리 경로--------------------
+-----------------
 
                   App
 
