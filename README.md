@@ -1,9 +1,9 @@
 # TODOLIST 오늘의 할 일 메모 만들기
 날짜 : 2020-11-09 Mon
 
-● styled-components 사용
-$ npm install styled-components
-$ npm start
+● styled-components 사용 /
+$ npm install styled-components / 
+$ npm start /
 
 ● themeprovider 테마 제공
 - (https://styled-components.com/docs/api#themeprovider)
